@@ -129,8 +129,8 @@ class ATM:
 if __name__ == "__main__":
     atm = ATM()
 
-    user1 = User("abilash", "1234", 1000000)
-    user2 = User("abi", "1234", 500000)
+    user1 = User("mukesh", "1234", 100000)
+    user2 = User("s", "1234", 5000)
 
     atm.add_user(user1)
     atm.add_user(user2)
